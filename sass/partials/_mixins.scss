@@ -1,0 +1,9 @@
+/*Mixins*/
+
+@mixin cuadro {
+    display: flex;
+    flex-direction: row;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

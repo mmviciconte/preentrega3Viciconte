@@ -1,0 +1,16 @@
+/*Estilos del Footer*/
+.estiloFooter{
+    grid-area: footer;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color: #173a8a;
+    .redesSociales{
+    color:#bcc9de;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    }
+}
